@@ -1,0 +1,15 @@
+{
+  "name": "techtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "sass": "sass --watch styles/main.scss:dist/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.80.7"
+  }
+}
